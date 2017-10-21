@@ -1,2 +1,2 @@
-# hello-world 
-My first project (using HTML and CSS)
+# Hello world !
+Here's my first project (using HTML and CSS).
